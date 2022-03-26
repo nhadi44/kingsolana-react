@@ -1,7 +1,8 @@
 export default function Utility() {
   return (
-    <div>
-      <h1>Utility</h1>
+    <div className="component__utility-page">
+      <h1>Utility page</h1>
+      <div></div>
     </div>
   );
 }

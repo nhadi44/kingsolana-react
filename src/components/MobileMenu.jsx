@@ -1,7 +1,7 @@
 export default function MobileMenu() {
   return (
     <div className="component__mobile-menu">
-      <ul className="fixed right-0 bg-slate-600 rounded-md ">
+      <ul className="fixed right-0 bg-slate-900 rounded-md ">
         <li className="flex flex-col float-right px-7 space-y-5 py-4 capitalize text-right">
           <a
             href="/"
