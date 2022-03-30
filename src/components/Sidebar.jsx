@@ -48,7 +48,7 @@ export default function Sidebar() {
               <div className="">
                 <img
                   src={Sosmed.Instagram}
-                  alt="king-twitter"
+                  alt="king-instagram"
                   className="group-hover:bg-blue-500 p-6 rounded-sm  w-[5.7rem]"
                 />
               </div>
@@ -66,7 +66,7 @@ export default function Sidebar() {
               <div className="">
                 <img
                   src={Sosmed.Discord}
-                  alt="king-twitter"
+                  alt="king-discord"
                   className="group-hover:bg-blue-500 p-6 rounded-sm  w-[5.7rem]"
                 />
               </div>
