@@ -1,8 +1,8 @@
 import * as Sosmed from "../assets/icons/sosmed";
 export default function Sidebar() {
   return (
-    <div className="component__sidebar">
-      <div className="fixed bottom-0 p-6">
+    <div className="component__sidebar relative">
+      <div className="fixed bottom-0 p-6 z-10">
         <div className="sidebar__sosmed-icons flex flex-col space-y-2">
           <div className="sosmed-twitter">
             <a

@@ -26,7 +26,7 @@ export default function Home() {
             </div>
           </div>
           <div id="team">
-            <div className="min-h-screen flex items-center justify-center">
+            <div className="min-h-screen flex justify-center py-32 2xl:py-44">
               <Component.Team />
             </div>
           </div>
